@@ -12,6 +12,20 @@ As an AUTOSAR Base Software Engineer, I have acquired a diverse skill set that a
 - C Programming
 - ECU Integration
 - Embedded Systems
+- Simulation modeling
+- sensor integration
+- algorithm development
+- Sensor fusion
+- data analysis
+- algorithm development
+- Power electronics
+- electromagnetic field analysis
+- prototype design.
+- Software development
+- hardware integration
+- robotic control systems.
+
+
 
 My interests revolve around automotive software development and working on embedded systems projects. I am passionate about leveraging my skills to create innovative solutions within the automotive industry.
 
