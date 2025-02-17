@@ -4,7 +4,9 @@ Welcome to my projects repository! This repository showcases a collection of pro
 
 1. Virtual Simulation Platform for Self-Driving Car
 Description: This project involves creating a virtual environment to test autonomous vehicles. The simulation platform mimics real-world driving scenarios, allowing for safe testing and development of self-driving algorithms.
+
 Technologies: MATLAB, Simulink, ROS (Robot Operating System).
+
 Skills:
 Simulation Modeling: Creating accurate models of vehicle dynamics and environmental conditions.
 Sensor Integration: Incorporating sensors such as LIDAR, cameras, and radar into the simulation.
